@@ -1,1 +1,1 @@
-# formacao-devops-ci-testes
+# labdevops-ci-testes
